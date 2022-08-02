@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediasPonderadas\bin\Debug\net6.0\MediasPonderadas.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediasPonderadas\bin\Debug\net6.0\MediasPonderadas.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediasPonderadas\bin\Debug\net6.0\MediasPonderadas.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediasPonderadas\bin\Debug\net6.0\MediasPonderadas.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediasPonderadas\bin\Debug\net6.0\MediasPonderadas.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediasPonderadas\obj\Debug\net6.0\MediasPonderadas.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediasPonderadas\obj\Debug\net6.0\MediasPonderadas.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediasPonderadas\obj\Debug\net6.0\MediasPonderadas.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediasPonderadas\obj\Debug\net6.0\MediasPonderadas.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediasPonderadas\obj\Debug\net6.0\MediasPonderadas.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediasPonderadas\obj\Debug\net6.0\MediasPonderadas.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediasPonderadas\obj\Debug\net6.0\refint\MediasPonderadas.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediasPonderadas\obj\Debug\net6.0\MediasPonderadas.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediasPonderadas\obj\Debug\net6.0\MediasPonderadas.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediasPonderadas\obj\Debug\net6.0\ref\MediasPonderadas.dll
